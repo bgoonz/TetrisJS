@@ -1,4 +1,6 @@
-# Project Title
+# Tetris
+
+![tetris demo](./tetris.gif)
 
 One Paragraph of project description goes here
 
